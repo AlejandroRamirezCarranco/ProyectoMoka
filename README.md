@@ -1,1 +1,1 @@
-<a href="pagina.html"><p>pagina principal</p></a>
+<a href="medio_ambiente.html"><p>pagina principal</p></a>

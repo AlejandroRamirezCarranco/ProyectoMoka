@@ -34,4 +34,3 @@
 <center><a href=https://www.nationalgeographic.es/medio-ambiente/que-es-el-calentamiento-global" target="_blank">* click para mas informacion</a></center>
 </body>
 </html>
-<a href="medio_ambiente.html"><p>pagina principal</p></a>

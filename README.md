@@ -32,3 +32,5 @@
 <a href="lista_contaminacion.html"><p>* Lista de contaminacion</p></a>
 <a href="tabla.html"><p>* Tablas</p></a>
 <center><a href="https://www.nationalgeographic.es/medio-ambiente/que-es-el-calentamiento-global"><p>*informacion</p></a></center>
+</head>
+</html>

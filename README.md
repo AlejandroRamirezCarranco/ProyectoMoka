@@ -12,4 +12,26 @@
 <body>
 <center><img src="D:\Proyecto\Trapeando.gif" width="1000" height="400"></center>
 <center><h1>Calentamiento Global</h1></center>
+<br></body>
+<center><a>El cambio climático se refiere a los cambios a largo plazo de las temperaturas y los patrones climáticos. Estos cambios pueden ser naturales, debido a variaciones en la actividad solar o erupciones volcánicas grandes. Pero desde el siglo XIX, las actividades humanas han sido el principal motor del cambio climático, debido principalmente a la quema de combustibles fósiles como el carbón, el petróleo y el gas.</a>
+<br></br>
+<a>La quema de combustibles fósiles genera emisiones de gases de efecto invernadero que actúan como una manta que envuelve a la Tierra, atrapando el calor del sol y elevando las temperaturas.</a>
+<br></br>
+<a>Las emisiones principales de gases de efecto invernadero que provocan el cambio climático son el dióxido de carbono y el metano. Estos proceden del uso de la gasolina para conducir un coche o del carbón para calentar un edificio, por ejemplo. El desmonte de tierras y bosques también puede liberar dióxido de carbono. La agricultura y las actividades relacionadas con el petróleo y el gas son fuentes importante de emisiones de metano. La energía, la industria, el transporte, los edificios, la agricultura y el uso del suelo se encuentran entre los principales emisores.</a>
+<br></br>
+<a>La accion climática requiere importantes inversiones financieras por parte de gobiernos y empresas. Pero la inacción climática es mucho más cara. Un paso fundamental es que los países industrializados cumplan su compromiso de aportar 100 000 millones de dólares anuales a los países en desarrollo para que puedan adaptarse y avanzar hacia economías más ecológicas.</a>
+<br></br>
+<a>Descansar un rato,Escucha esta cancion por minetras</a>
+<br></br>
+<embed src="D:\Proyecto\Lana Del Rey - Let The Light In (Audio) ft. Father John Misty.mp3"
+ width="300" height="150" autoplay="true" loop="10">
+</center>
+<br></br>
+<center><img src="salva la tierra.PNG" width="600" height="300"></center><br></br>
+<a href="sus_causas.html"><p>* Naciones Unidas informacion</p></a>
+<a href="lista_contaminacion.html"><p>* Lista de contaminacion</p></a>
+<a href="tabla.html"><p>* Tablas</p></a>
+<center><a href=https://www.nationalgeographic.es/medio-ambiente/que-es-el-calentamiento-global" target="_blank">* click para mas informacion</a></center>
+</body>
+</html>
 <a href="medio_ambiente.html"><p>pagina principal</p></a>

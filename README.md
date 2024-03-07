@@ -5,12 +5,12 @@
 	<title>Medio ambiente</title>
 	<link rel="stylesheet" type="text/css" href="estilos.css">
 	<font sice="4" face="Comic Sans MS" color="black" align="center">
-	<br></br>
+
 	<marquee>Protege a tu tierra para una vida mejor vvs <3</marquee>
 
 </head>
 <body>
-<center><img src="D:\Proyecto\Trapeando.gif" width="1000" height="400"></center>
+<center><img src="Trapeando.gif" width="1000" height="400"></center>
 <center><h1>Calentamiento Global</h1></center>
 <br></body>
 <center><a>El cambio climático se refiere a los cambios a largo plazo de las temperaturas y los patrones climáticos. Estos cambios pueden ser naturales, debido a variaciones en la actividad solar o erupciones volcánicas grandes. Pero desde el siglo XIX, las actividades humanas han sido el principal motor del cambio climático, debido principalmente a la quema de combustibles fósiles como el carbón, el petróleo y el gas.</a>
@@ -23,7 +23,7 @@
 <br></br>
 <a>Descansar un rato,Escucha esta cancion por minetras</a>
 <br></br>
-<embed src="D:\Proyecto\Lana Del Rey - Let The Light In (Audio) ft. Father John Misty.mp3"
+<embed src="Lana Del Rey - Let The Light In (Audio) ft. Father John Misty.mp3"
  width="300" height="150" autoplay="true" loop="10">
 </center>
 <br></br>
@@ -31,6 +31,6 @@
 <a href="sus_causas.html"><p>* Naciones Unidas informacion</p></a>
 <a href="lista_contaminacion.html"><p>* Lista de contaminacion</p></a>
 <a href="tabla.html"><p>* Tablas</p></a>
-<center><a href=https://www.nationalgeographic.es/medio-ambiente/que-es-el-calentamiento-global" target="_blank">* click para mas informacion</a></center>
+<center><a href=https://www.nationalgeographic.es/medio-ambiente/que-es-el-calentamiento-global" target="_blank"><p>* click para mas informacion </p></a></center>
 </body>
 </html>
